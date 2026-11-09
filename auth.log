@@ -1,0 +1,9 @@
+Nov 08 10:01:12 server sshd[1021]: Failed password for root from 203.0.113.50 port 4022 ssh2
+Nov 08 10:01:14 server sshd[1021]: Failed password for root from 203.0.113.50 port 4023 ssh2
+Nov 08 10:01:15 server sshd[1021]: Failed password for admin from 203.0.113.50 port 4024 ssh2
+Nov 08 10:01:17 server sshd[1021]: Failed password for root from 203.0.113.50 port 4025 ssh2
+Nov 08 10:01:18 server sshd[1021]: Failed password for admin from 203.0.113.50 port 4026 ssh2
+Nov 08 10:01:20 server sshd[1021]: Failed password for root from 203.0.113.50 port 4027 ssh2
+Nov 08 10:05:41 server sshd[1033]: Failed password for jerusha from 198.51.100.7 port 5100 ssh2
+Nov 08 10:05:49 server sshd[1033]: Accepted password for jerusha from 198.51.100.7 port 5101 ssh2
+Nov 08 10:07:02 server sshd[1040]: Accepted password for root from 203.0.113.50 port 4030 ssh2
